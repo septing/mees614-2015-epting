@@ -7,3 +7,7 @@ typeof(a)
 b <- list(1,2,3)
 b
 typeof(b)
+
+#this is a test
+
+#test test
